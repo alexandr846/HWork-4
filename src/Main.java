@@ -69,7 +69,7 @@ public class Main {
         {
             System.out.println("Третий больше");
         }
-        if (two > one && two > three);
+        if (two > one && two > three) ;
         {
             System.out.println("Второй больше"); // Весь мозг сломал но уверен что не правельна 7 задача
         }
@@ -77,7 +77,7 @@ public class Main {
     }
 
 
-    }
+}
 
 
 
