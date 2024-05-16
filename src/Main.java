@@ -70,7 +70,7 @@ public class Main {
         }
         if (two > one && two > three)
         {
-            System.out.println("Второй больше"); // надеюсь так верно?
+            System.out.println("Второй больше"); // надеюсь так верно??
         }
 
     }
