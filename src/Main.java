@@ -65,11 +65,11 @@ public class Main {
         if (one > two && two > three) {
             System.out.println("Первый больше");
         }
-        if (three > one && three < two) ;
+        if (three > one && three < two)
         {
             System.out.println("Третий больше");
         }
-        if (two > one && two > three) ;
+        if (two > one && two > three)
         {
             System.out.println("Второй больше"); // Весь мозг сломал но уверен что не правельна 7 задача
         }
