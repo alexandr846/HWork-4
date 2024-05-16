@@ -13,7 +13,6 @@ public class Main {
         if (temperature < 5) {
             System.out.println("На улице -5 градуса нужно надеть шапку");
         } else {
-            // хотя можно и без шапки ходить все равно там пусто)))
             System.out.println("На улице 5 градусов можно идти без шапки" + temperature);
         }
         System.out.println();
