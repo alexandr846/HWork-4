@@ -13,7 +13,6 @@ public class Main {
         if (temperature < 5) {
             System.out.println("На улице -5 градуса нужно надеть шапку");
         } else {
-            // хотя можно и без шапки ходить все равно там пусто)))
             System.out.println("На улице 5 градусов можно идти без шапки" + temperature);
         }
         System.out.println();
@@ -65,19 +64,19 @@ public class Main {
         if (one > two && two > three) {
             System.out.println("Первый больше");
         }
-        if (three > one && three < two) ;
+        if (three > one && three < two)
         {
             System.out.println("Третий больше");
         }
-        if (two > one && two > three);
+        if (two > one && two > three)
         {
-            System.out.println("Второй больше"); // Весь мозг сломал но уверен что не правельна 7 задача
+            System.out.println("Второй больше"); // надеюсь так верно??
         }
 
     }
 
 
-    }
+}
 
 
 
